@@ -1,0 +1,65 @@
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Projem.dll
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Projem.pdb
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Acer\Desktop\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Acer\Desktop\Projem\Projem\Projem\obj\Debug\Projem.App.xaml.g.cs
+C:\Users\Acer\Desktop\Projem\Projem\Projem\obj\Debug\Projem.Views.MyPageContent.xaml.g.cs
+C:\Users\Acer\Desktop\Projem\Projem\Projem\obj\Debug\Projem.dll
+C:\Users\Acer\Desktop\Projem\Projem\Projem\obj\Debug\Projem.pdb
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Projem.dll
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Projem.pdb
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\obj\Debug\Projem.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\obj\Debug\Projem.App.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\obj\Debug\Projem.Views.MyPageContent.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\obj\Debug\Projem.dll
+C:\Users\Acer\Desktop\Renk Bulma\Projem\Projem\Projem\obj\Debug\Projem.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\obj\Debug\Projem.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\obj\Debug\Projem.App.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\obj\Debug\Projem.Views.MyPageContent.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\obj\Debug\Projem.Views.ListPage.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\obj\Debug\Projem.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\obj\Debug\Projem.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Projem.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Projem.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\SQLite.Net.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem\obj\Debug\Projem.Views.GirisSayfasi.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Projem.dll
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Projem.pdb
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\SQLite.Net.dll
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\obj\Debug\Projem.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\obj\Debug\Projem.App.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\obj\Debug\Projem.Views.MyPageContent.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\obj\Debug\Projem.Views.ListPage.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\obj\Debug\Projem.Views.GirisSayfasi.xaml.g.cs
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\obj\Debug\Projem.dll
+C:\Users\Acer\Desktop\Renk Bulma\Renk Oyunu\Projem\Projem\obj\Debug\Projem.pdb

@@ -1,0 +1,318 @@
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.apk
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android-Signed.apk
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\RenkOyunu.Android.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.dll
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.pdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\bin\Projem.Android.apk
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\values\styles.xml
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\iconn.png
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\puzzle.png
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\R.cs.flag
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\uploadflags.txt
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.Android.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Acer\Desktop\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.pdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.apk
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android-Signed.apk
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.pdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\RenkOyunu.Android.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.dll
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.pdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\bin\Projem.Android.apk
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\values\styles.xml
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\iconn.png
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\puzzle.png
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\R.cs.flag
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\uploadflags.txt
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.Android.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Acer\Desktop\RenkBitti\Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.pdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.apk
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android-Signed.apk
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.pdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.pdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\RenkOyunu.Android.csprojResolveAssemblyReference.cache
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.dll
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.pdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\bin\Projem.Android.apk
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\tabbar.xml
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\toolbar.xml
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\values\styles.xml
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\iconn.png
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\puzzle.png
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\R.cs.flag
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\uploadflags.txt
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.Android.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Mobile Application\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.pdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\com.aydogdusehmus.apk
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\com.aydogdusehmus-Signed.apk
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.pdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\RenkOyunu.Android.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.dll
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.pdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\bin\com.aydogdusehmus.apk
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\values\styles.xml
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\iconn.png
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\puzzle.png
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\R.cs.flag
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\uploadflags.txt
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.Android.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\acer\Desktop\Deneme\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\com.aydogdusehmus.apk
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\com.aydogdusehmus-Signed.apk
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\RenkOyunu.Android.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\bin\com.aydogdusehmus.apk
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\values\styles.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\iconn.png
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\puzzle.png
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\R.cs.flag
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\uploadflags.txt
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.Android.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\com.aydogdusehmus.apk
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\com.aydogdusehmus-Signed.apk
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\RenkOyunu.Android.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.dll
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\Projem.Android.pdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\bin\com.aydogdusehmus.apk
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\values\styles.xml
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\iconn.png
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\res\drawable\puzzle.png
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\R.cs.flag
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\uploadflags.txt
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\bin\Debug\Projem.Android.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.Android.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Projem.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\acer\Desktop\Apk-Xamarin\Renk Oyunu\Xamarin-Renk Oyunu\Projem\Projem.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

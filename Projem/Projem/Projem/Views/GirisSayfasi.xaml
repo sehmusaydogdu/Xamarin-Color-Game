@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Projem.Views.GirisSayfasi"
+             Style="{StaticResource ContentStyle}">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="OYUNA BAŞLA" Activated="onOyunaBasla" Priority="1" Order="Secondary"></ToolbarItem>
+        <ToolbarItem Name="OYUN SKOR BİLGİLERİ" Activated="onOyunListesi" Priority="2" Order="Secondary"></ToolbarItem>
+        <ToolbarItem Name="NASIL OYNANIR ?" Activated="onNasilOynanir" Priority="2" Order="Secondary"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout Padding="10,10,10,10">
+
+            <StackLayout Padding="10,25,10,0">
+                <Label x:Name="lblTitle"
+                       Text="Hazır mısın ?" 
+                       FontSize="30" 
+                       VerticalOptions="Center"
+                       HorizontalOptions="Center" 
+                       TextColor="SeaGreen"/>
+            </StackLayout>
+
+            <StackLayout  VerticalOptions="Center" HorizontalOptions="Center" Padding="10,30,10,0">
+                <Label x:Name="lblYazi" Text="Renkleri Takip Et" FontSize="30" TextColor="#e08585" ></Label>
+
+                <Image x:Name="imgState" Source="puzzle.png" WidthRequest="150"  HeightRequest="150" Margin="10,10,10,10"></Image>
+
+                <Button x:Name="btnBasla" 
+                        Text="OYUNA BAŞLA" 
+                        Clicked="onOyunaBasla"
+                        Style="{StaticResource BtnStyle}"></Button>
+
+                <Button x:Name="btnSkorlar" 
+                        Text="OYUN SKOR BİLGİLERİ" 
+                        Clicked="onOyunListesi"
+                        Style="{StaticResource BtnStyle}"></Button>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
